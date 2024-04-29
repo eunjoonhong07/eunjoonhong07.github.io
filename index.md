@@ -1,5 +1,5 @@
 ---
-title: "EDS Program Portfolio"
+title: "Palo Alto HS Junior Year Portfolio"
 layout: splash
 date: 2024-04-17
 header:
@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/coffee.jpg
 excerpt: "My doctoral journey in linguistics at Cornell University involves rigorous research, deep exploration, and scholarly contributions to the field."
 intro: 
-  - excerpt: 'As a doctoral student in Linguistics at Cornell University, I delve into complex areas such as syntax, phonology, morphology, semantics, pragmatics, historical linguistics, sociolinguistics, psycholinguistics, computational linguistics, corpus linguistics, typology, laboratory research, and fieldwork.'
+  - excerpt: 'As a junior year student taking AP Statistics.... in Linguistics at Cornell University, I delve into complex areas such as syntax, phonology, morphology, semantics, pragmatics, historical linguistics, sociolinguistics, psycholinguistics, computational linguistics, corpus linguistics, typology, laboratory research, and fieldwork.'
 feature_row:
   - image_path: /assets/images/feat1.jpg
     title: "History Collaborative"
